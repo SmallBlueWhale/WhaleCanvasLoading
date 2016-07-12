@@ -11,4 +11,4 @@ Then,this also use some animation to complete it.
 
 *spiral*
 
-![image](https://github.com/kinghui/CanvasLoading/tree/whale/app/showgif/spiral.gif )   
+![image](https://github.com/kinghui/CanvasLoading/tree/whale/app/showgif/Spiral.gif )   
