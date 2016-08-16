@@ -1,6 +1,8 @@
-# CanvasLoading
+# CanvasLoading(支付宝笑脸)
 Using Canvas to draw a smile face and a spiral pic.
 Then,this also use some animation to complete it.
+
+仿android 支付宝下拉加载笑脸
 ## Show the gif
 *smileloading*
 
